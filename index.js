@@ -27,8 +27,8 @@ const questions = [
     },
     {
         type: "input",
-        message: "What are the contribution guidelines?",
-        name: "contGuide",
+        message: "Provide contributors for the project?",
+        name: "contributor",
     },
     {
         type: "list",

@@ -1,4 +1,4 @@
-# 
+# Project Title
     
 # Table of Contents
     
@@ -11,29 +11,23 @@
 
 
 ## Description
-
+Project Description
     
 ## Installations
-
-    
-npm init -y
-
-npm install bad math
-
-npm install inquirer
+Installation Steps
       
 ## Usage
-
+Project Usage
       
 
 ## License
 
-None
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
       
 ## Contributors
-
+Tina Pham
     
 ## Contact
-[Github Profile](https://www.github.com/)
+[Github Profile](https://www.github.com/tpham912)
     

@@ -60,12 +60,6 @@ ${response.projDesc}
     
 ## Installations
 ${response.installIns}
-    
-npm init -y
-
-npm install bad math
-
-npm install inquirer
       
 ## Usage
 ${response.usageInfo}
@@ -73,7 +67,7 @@ ${response.usageInfo}
 ${licenseSection}
       
 ## Contributors
-${response.contGuide}
+${response.contributor}
     
 ## Contact
 [Github Profile](https://www.github.com/${response.userName})
