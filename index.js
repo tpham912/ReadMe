@@ -44,9 +44,7 @@ const questions = [
 ];
 
 
-// TODO: Create a function to write README file
-
-    
+// TODO: Create a function to write README file  
 
 // TODO: Create a function to initialize app
 

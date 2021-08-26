@@ -30,4 +30,5 @@ Tina Pham
     
 ## Contact
 [Github Profile](https://www.github.com/tpham912)
-    
+
+![Demo Gif](ReadmeDemo.gif)

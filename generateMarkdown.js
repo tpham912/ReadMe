@@ -54,7 +54,6 @@ function generateMarkdown(response) {
 5. [Contributor](#contributor)
 6. [Contact](#contact)
 
-
 ## Description
 ${response.projDesc}
     
