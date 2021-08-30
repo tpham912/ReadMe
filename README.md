@@ -1,4 +1,4 @@
-# Project Title
+# Project Name
     
 # Table of Contents
     
@@ -9,12 +9,11 @@
 5. [Contributor](#contributor)
 6. [Contact](#contact)
 
-
 ## Description
 Project Description
     
 ## Installations
-Installation Steps
+Project Installations
       
 ## Usage
 Project Usage
@@ -22,7 +21,7 @@ Project Usage
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
       
 ## Contributors
@@ -30,5 +29,5 @@ Tina Pham
     
 ## Contact
 [Github Profile](https://www.github.com/tpham912)
-
-![Demo Gif](ReadmeDemo.gif)
+<tina.pham8912@gmail.com>
+    

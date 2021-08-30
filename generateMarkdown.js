@@ -70,6 +70,7 @@ ${response.contributor}
     
 ## Contact
 [Github Profile](https://www.github.com/${response.userName})
+<${response.email}>
     
 `;
     
